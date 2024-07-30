@@ -148,8 +148,8 @@ import { Github, Linkedin } from 'lucide-svelte';
     class="hero pinned h-screen flex flex-col justify-center items-center py-10"
   >
     <div class="text-center flex flex-col items-center">
-      <h1 bind:this={myText} class="text-[8rem] font-bold mb-2">__blanc__</h1>
-      <h2 class="text-3xl">Frontend • Backend • DevOps</h2>
+      <h1 bind:this={myText} class="text-[5rem] md:text-[8rem] font-bold mb-2">__blanc__</h1>
+      <h2 class="text-2xl md:text-3xl">Frontend • Backend • DevOps</h2>
       <div class="icons flex gap-2 mt-4">
         <a href="https://github.com/blanc42" target="_blank">
           <Github class="w-8 h-8"/>
