@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "gsap": "^3.12.5",
-    "lucide-svelte": "^0.416.0"
+    "lucide-svelte": "^0.416.0",
+    "svelte-routing": "^2.13.0"
   }
 }
